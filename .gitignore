@@ -1,0 +1,17 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+# MATLAB autosave / temp
+*.asv
+*.m~
+# Large data and model files (GitHub limit is 100 MB per file)
+*.zip
+*.pth
+*.pt
+*.h5
+*.ckpt
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
